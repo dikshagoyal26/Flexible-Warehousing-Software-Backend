@@ -1,0 +1,9 @@
+#dependency
+/node_modules
+
+#file
+package-lock.json
+test.js
+
+#folder
+uploads/
